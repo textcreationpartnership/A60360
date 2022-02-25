@@ -1,0 +1,832 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The predestinated thief A dialogue betwixt a rigid Calvinian preacher and a condemned malefactor. In which is not onely represented how the Calvinistical opinion occasions the perpetration of wickedness and impieties; but moreover how it doth impede and hinder, nay almost impossibilitate the reducing of a sinner to emendation and repentance.</title>
+            <author>Slatius, Henry, 1585-1623.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60360</idno>
+            <idno type="STC">Wing S3982A</idno>
+            <idno type="STC">ESTC R220063</idno>
+            <idno type="EEBO-CITATION">99831492</idno>
+            <idno type="PROQUEST">99831492</idno>
+            <idno type="VID">35955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2045:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The predestinated thief A dialogue betwixt a rigid Calvinian preacher and a condemned malefactor. In which is not onely represented how the Calvinistical opinion occasions the perpetration of wickedness and impieties; but moreover how it doth impede and hinder, nay almost impossibilitate the reducing of a sinner to emendation and repentance.</title>
+                  <author>Slatius, Henry, 1585-1623.</author>
+               </titleStmt>
+               <extent>[12], 65, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Trott for Daniel Jones, and are to be sold at the three Hearts in S. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Henricus Slatius.</note>
+                  <note>Includes index.</note>
+                  <note>Caption title on p. 1 reads: A dialogue had betwixt a Calvinist preacher and a condemned malefactor.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calvinism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35955:1"/>
+            <pb facs="tcp:35955:1" rendition="simple:additions"/>
+            <p>The Predeſtinated Thief. A DIALOGVE BETWIXT A Rigid Calvinian Preacher AND A Condemned Malefactor. In which is not onely repreſented how the <hi>Calviniſtical</hi> Opinion occaſions the per<g ref="char:EOLhyphen"/>petration of Wickedneſs and Impie<g ref="char:EOLhyphen"/>ties; but moreover how it doth im<g ref="char:EOLhyphen"/>pede and hinder, nay almoſt im<g ref="char:EOLhyphen"/>poſſibilitate the reducing of a Sinner to Emendation and Repentance.</p>
+            <q>
+               <p>What doth Chriſt his Spirit (or the Word prea<g ref="char:EOLhyphen"/>ched) profit us, if the contrary be Predeſti<g ref="char:EOLhyphen"/>nated by God?</p>
+               <p>If Chriſt would profit us by his Spirit, and re<g ref="char:EOLhyphen"/>form us by his Word, of neceſſity God hath not decreed any thing to the contrary.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. Trott</hi> for <hi>Daniel Jones,</hi> and are to be ſold at the three Hearts in S. <hi>Paul</hi>'s Church-yard. 1658.</p>
+            <pb facs="tcp:35955:2"/>
+            <pb facs="tcp:35955:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35955:3" rendition="simple:additions"/>
+            <pb facs="tcp:35955:3"/>
+            <head>TO The Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E queſtion not but this Diſcourſe or DIALOGUE may ſtick on the ſto<g ref="char:EOLhyphen"/>machs of ſome, and ſeem ſtrange and inſolent to others, who are not at all (or elſe but very little) acquainted with Diſ<g ref="char:EOLhyphen"/>courſes
+<pb facs="tcp:35955:4"/> or Opinions of this nature. Neverthe<g ref="char:EOLhyphen"/>leſs, thoſe things which we hear by the Thief both defended &amp; main<g ref="char:EOLhyphen"/>tained, are not ſo to be judged of, as if every word of it were imme<g ref="char:EOLhyphen"/>diately deduced from Scripture.</p>
+            <p>Yet whatſoever is al<g ref="char:EOLhyphen"/>ledged is conſonant, nay the very expreſs words of thoſe Doctors which are accounted the moſt
+<pb facs="tcp:35955:4"/> Eminent and Orthodox among the <hi>Calviniſts:</hi> which opinion we aſſert to be moſt abominable, maintaining ſuch things as utterly overthrow E<g ref="char:EOLhyphen"/>vangelical Piety, and o<g ref="char:EOLhyphen"/>pening a wide gap to all manner of ſin and ini<g ref="char:EOLhyphen"/>quity.</p>
+            <p>Men of leſs piercing Intellects do not per<g ref="char:EOLhyphen"/>ceive how pernicious and abſurd this opinion of preciſe and rigid Pre<g ref="char:EOLhyphen"/>deſtination
+<pb facs="tcp:35955:5"/> is, which was the very reaſon this Dialogue came to light, that hence it might ap<g ref="char:EOLhyphen"/>pear as evidently as the Sun at Noon-day, that ſuch Doctors and their Doctrines are to be a<g ref="char:EOLhyphen"/>avoided as much as Hell.</p>
+            <p>Though the Inſcri<g ref="char:EOLhyphen"/>ption may ſeem ſtrange or hard to thee, gentle Reader, let not that of<g ref="char:EOLhyphen"/>fend thee; for 'tis cer<g ref="char:EOLhyphen"/>tain,
+<pb facs="tcp:35955:5"/> that many being carried away with a fan<g ref="char:EOLhyphen"/>cy to theſe Opinions, have given themſelves over to Rapines, Rob<g ref="char:EOLhyphen"/>beries, Murthers, and to other more deteſtable wickedneſſes; ſo that if we might have our wiſh, we could wiſh, that the ſad Experience (the more is the pity) of ma<g ref="char:EOLhyphen"/>ny Examples did not prove it too true: which conſidered, it does evi<g ref="char:EOLhyphen"/>dently
+<pb facs="tcp:35955:6"/> appear, that the Title does aptly agree with the matter of this following Diſcourſe.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="list_of_authors_cited">
+            <pb facs="tcp:35955:6"/>
+            <head>The Names of thoſe Doctors whoſe Opinions of Preciſe Predeſtina<g ref="char:EOLhyphen"/>tion are moſt eſteemed, and quoted in this Treatiſe.</head>
+            <list>
+               <head>A B</head>
+               <item>
+                  <hi>RUardus Acronius</hi> late Preacher at <hi>Schiedam.</hi>
+               </item>
+               <item>
+                  <hi>Theodore Beza</hi> Doctor of <hi>Ge<g ref="char:EOLhyphen"/>neva.</hi>
+               </item>
+               <item>
+                  <hi>George Buchanan</hi> of <hi>Bern,</hi> Pro<g ref="char:EOLhyphen"/>feſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r at <hi>Lauſan.</hi>
+               </item>
+               <item>
+                  <hi>Martin Bucer</hi> Profeſſor at <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+               </item>
+               <item>
+                  <hi>John Bogard</hi> late Preacher at <hi>Harlem.</hi>
+               </item>
+               <item>
+                  <hi>John Becius</hi> Preacher at <hi>Dort.</hi>
+               </item>
+               <item>
+                  <hi>Bern. Buſchop</hi> Preacher at <hi>U<g ref="char:EOLhyphen"/>trecht.</hi>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>
+                  <hi>John Calvin</hi> Doctor of <hi>Geneva.</hi>
+               </item>
+               <item>Theſe ſix that follow were the Collocu<g ref="char:EOLhyphen"/>tors againſt the Remonſtrants.
+<list>
+                     <item>
+                        <hi>Peter Plantius</hi> Preacher at <hi>Am<g ref="char:EOLhyphen"/>ſterdam.</hi>
+                     </item>
+                     <pb facs="tcp:35955:7"/>
+                     <item>
+                        <hi>John Bogard</hi> Preacher at <hi>Harlem.</hi>
+                     </item>
+                     <item>
+                        <hi>Libertus Fraxinus</hi> Preacher at the <hi>Brill.</hi>
+                     </item>
+                     <item>
+                        <hi>Rvardus Acronius</hi> Preacher at <hi>Schiedam.</hi>
+                     </item>
+                     <item>
+                        <hi>Feſtus Homnius</hi> Preacher at <hi>Ley<g ref="char:EOLhyphen"/>den.</hi>
+                     </item>
+                     <item>
+                        <hi>John Becius</hi> Preacher at <hi>Dort.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>
+                  <hi>Dunganus</hi> Preacher at <hi>Arnehem.</hi>
+               </item>
+               <item>
+                  <hi>Reyneirus Donteclock</hi> late Prea<g ref="char:EOLhyphen"/>cher at <hi>Delph</hi> and the <hi>Brill.</hi>
+               </item>
+               <item>Synod of <hi>Dort.</hi>
+               </item>
+               <item>
+                  <hi>Darnman</hi> Preacher at <hi>Zutphan.</hi>
+               </item>
+            </list>
+            <list>
+               <head>F H</head>
+               <item>
+                  <hi>Libertus Fraxinus</hi> late Preacher at the <hi>Brill.</hi>
+               </item>
+               <item>
+                  <hi>Feſtus Homnius</hi> Preacher at the <hi>Brill.</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>
+                  <hi>Cornelius Geſelius</hi> late Preacher at <hi>Edam.</hi>
+               </item>
+               <item>
+                  <hi>D. Fran. Gomarus</hi> Profeſſor at <hi>Groning.</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>
+                  <hi>Marloratus</hi> Preacher at <hi>Roan.</hi>
+               </item>
+               <item>
+                  <hi>Muſculus.</hi>
+               </item>
+               <pb facs="tcp:35955:7"/>
+               <item>
+                  <hi>P. Martyr</hi> Profeſſor of <hi>Oxford</hi> and <hi>Tigurin.</hi>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>
+                  <hi>Nicaſius de Schure</hi> Preacher at <hi>Gaunt.</hi>
+               </item>
+               <item>
+                  <hi>Pet. Neinwenrode</hi> Preacher at <hi>Roterdam.</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>
+                  <hi>G. Perkins</hi> an Engliſh Doctor.</item>
+               <item>
+                  <hi>Amandus Polanus</hi> Profeſſor at <hi>Baſil.</hi>
+               </item>
+               <item>
+                  <hi>Pareus</hi> Profeſſor at <hi>Heidelberg.</hi>
+               </item>
+               <item>
+                  <hi>John Piſcator</hi> Profeſſor of <hi>Naſſan</hi> in the County of <hi>Herbon.</hi>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>
+                  <hi>Renucherus</hi> Profeſſor of the He<g ref="char:EOLhyphen"/>brew Tongue at <hi>Leyden,</hi> a Preacher.</item>
+               <item>
+                  <hi>Hen. Sturmius</hi> a Profeſſor of <hi>Ley<g ref="char:EOLhyphen"/>den.</hi>
+               </item>
+               <item>
+                  <hi>Adrian. Smactius,</hi> heretofore Prea<g ref="char:EOLhyphen"/>cher at the <hi>Rhyne.</hi>
+               </item>
+               <item>
+                  <hi>Rippertus Sextus</hi> Preacher at <hi>Hor<g ref="char:EOLhyphen"/>nan.</hi>
+               </item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>
+                  <hi>Jab. Triglandius</hi> Preacher at <hi>Am<g ref="char:EOLhyphen"/>ſterdam.</hi>
+               </item>
+               <item>
+                  <hi>Anthon. Thiſius</hi> Profeſſor at <hi>Har<g ref="char:EOLhyphen"/>derwick.</hi>
+               </item>
+               <pb facs="tcp:35955:8"/>
+               <item>
+                  <hi>Dan. Toſſanus</hi> Profeſſor and Prea<g ref="char:EOLhyphen"/>cher at <hi>Heidelberg.</hi>
+               </item>
+            </list>
+            <list>
+               <head>U</head>
+               <item>
+                  <hi>John Urbanus</hi> Preacher at <hi>Hat<g ref="char:EOLhyphen"/>tem.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Z</head>
+               <item>
+                  <hi>Zuinglius Tiguri</hi> Profeſſor and Preacher at <hi>Helvetia.</hi>
+               </item>
+               <item>
+                  <hi>H. Zanchius</hi> Profeſſor at the new City of <hi>Spire.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:35955:8"/>
+            <head>A DIALOGVE Had betwixt <hi>A Calviniſt Preacher</hi> AND <hi>A Condemned Malefactor.</hi>
+            </head>
+            <sp>
+               <speaker>Preacher.</speaker>
+               <p>
+                  <seg rend="decorInit">A</seg> Good evening to you Sir: How have you led your life all along?</p>
+            </sp>
+            <sp>
+               <speaker>Thief.</speaker>
+               <p>Even as the Omnipotent God, who works all things according to the counſel of his own will, pleaſed to decree from all Eternity, and effect in time concerning me.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You ſay well, but I do not like this; but I like you worſe in that you are thus fettered, nor can
+<pb n="2" facs="tcp:35955:9"/> expect nothing but a certain, ſud<g ref="char:EOLhyphen"/>den and deteſtable death.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>'Tis true; but I don't know whether it becomes you or me thus to grieve, when neither you nor I are certain whether God from E<g ref="char:EOLhyphen"/>ternity by ſome immutable Decree have predeſtinated me either to life or death eternal.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>We will ſpeak of that by and by: and in the mean while, becauſe ye are condemned to die to mor<g ref="char:EOLhyphen"/>row, I am appointed here to be rea<g ref="char:EOLhyphen"/>dy with you; and am come to know whether thou deſireſt to be tranſlated with the Thief into Pa<g ref="char:EOLhyphen"/>radiſe: Tell me what ſins you have committed, that I may the better order my Inſtructions and Exhor<g ref="char:EOLhyphen"/>tations to you, and teach you bet<g ref="char:EOLhyphen"/>ter for your Souls health.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I ſhall willingly, if you will but be pleaſed to hear. My Parents had a care that I ſhould be bred up in learning from a childe: At laſt intending to ſend me to the Uni<g ref="char:EOLhyphen"/>ſerſity, thought what they ſhould do; <hi>Leyden</hi> was full of Hereſies, <hi>Franeker</hi> of Deboiſtneſs and Duel<g ref="char:EOLhyphen"/>lings.
+<pb n="3" facs="tcp:35955:9"/> Nevertheleſs, the Parſon of our Pariſh would have me go to <hi>Franeker,</hi> foraſmuch as it is better to be <hi>Bacchus</hi> or <hi>Mars</hi> his Scholar, than an Heretick; becauſe the firſt deſtroy but the Body, the laſt mur<g ref="char:EOLhyphen"/>ther the Soul. After this, away went I for <hi>Franeker,</hi> where the Ale was ſo good, the Wine ſo cheap, the Company ſo ingenious, that I ſpent all my money in jolletting. As ſoon as my friends heard of this, that I was more in the Alehouſe than my Study, and drunk more than I read, they call'd me home, and ſent me into <hi>France,</hi> where they live ſpa<g ref="char:EOLhyphen"/>ringly, and count Drunkenneſs both a ſhame and a ſin. But I went to <hi>Paris,</hi> where is a general concourſe of all Travellers: There the beſt Wine is worth little or nothing, and I believed drinking ſtrifly would do my buſineſs for me, I ſpent my whole time in drinking and wench<g ref="char:EOLhyphen"/>ing. Living ſo egregiouſly and o<g ref="char:EOLhyphen"/>penly wicked, my friends had no<g ref="char:EOLhyphen"/>tice of it; who as ſoon as they heard it, ſent Letters to ſome in <hi>Geneva,</hi> and to me, that I ſhould
+<pb n="4" facs="tcp:35955:10"/> preſently go live there, if I expect<g ref="char:EOLhyphen"/>ed their bleſſing: For our Parſon had poſſeſt my friends, that it was a moſt ſanctified City, in which they would neither ſuffer Rioting or Drunkenneſs, Levity or Wanton<g ref="char:EOLhyphen"/>neſs, or any other unlawful or ſin<g ref="char:EOLhyphen"/>ful action. Hence the credulity of my Parents preſently perſwaded them, that I ſhould live there no otherwiſe than another <hi>Samuel</hi> with a good old <hi>Eli</hi> in the Temple of God. Well, there is no avoid<g ref="char:EOLhyphen"/>ing of it, I muſt for <hi>Geneva,</hi> or elſe they will neither own me or main<g ref="char:EOLhyphen"/>tain me. Being come thither, I hapned to lodge where the woman of the houſe was exceeding hand<g ref="char:EOLhyphen"/>ſome, and the Maid exceeding af<g ref="char:EOLhyphen"/>fable; yet both of them ſo adorning their profeſſions by their walking, and their beauty with ſuch a ma<g ref="char:EOLhyphen"/>jeſty, that you would take them to be beauty and goodneſs it ſelf, go<g ref="char:EOLhyphen"/>ing to Lectures every day, recei<g ref="char:EOLhyphen"/>ving the Sacrament often, ſo that at the firſt I durſt ſcarce open my eyes to look upon them. But Time, that brings all things to paſs, at
+<pb n="5" facs="tcp:35955:10"/> length anſwered my expectations in all things. But firſt of all, that I might get the good word of all the Preachers and Conſiſtory, I ne<g ref="char:EOLhyphen"/>ver neglected any opportunity of going to private Meetings, and hear<g ref="char:EOLhyphen"/>ing of Sermons: Then going to Church with a great Bible under my arm, I would never take up my ſtanding but under or near the Pul<g ref="char:EOLhyphen"/>pit, where I would enquire again all the Proofs quoted by the Mini<g ref="char:EOLhyphen"/>ſter, and then with a ſigh as from the bottom of my heart, and eyes lift up to heaven, I would look on the place and turn it down. So by this means I became famous for a Lecture-monger and a Chriſtian. In the mean while, being diligent to be counted a Gentleman, I got me a Sword by my ſide, a Foot-boy at my heels, and a Madam by the hand, who when her ſtockings were off would prove her ſelf a woman. And when I was got into this equi<g ref="char:EOLhyphen"/>page, I muſt needs travel, and with <hi>Glycerio</hi> I walked thorough the craggy Mountains, and graſs-bear<g ref="char:EOLhyphen"/>ing Plains, not denying my ſelf
+<pb n="6" facs="tcp:35955:11"/> Wine, Gaming, ſtrange Beaſts or Birds, or any thing that might move or make delight. I had the Fidlers daily; and leſt their noiſe ſhould be too much taken notice of, I had the trick to make them play their eaſier ſtrains: and on high days in eminent places, the Curtains drawn, the Torches light, we in our Pumps did dance &amp; tear the ground.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I, but if it had been known what you did, they would have or<g ref="char:EOLhyphen"/>dered you: for in <hi>Geneva,</hi> that ho<g ref="char:EOLhyphen"/>ly City, it is counted a great of<g ref="char:EOLhyphen"/>fence to dance.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I would that were all: for once the bufineſs being made com<g ref="char:EOLhyphen"/>mon, I and all my Companions were warn'd to appear before the Biſhop. I thought that we ſhould have been ſo ſore puniſh'd, that we ſhould ſcarce have had enough of Bread and Wa<g ref="char:EOLhyphen"/>ter; but our Companions came to us daily, and we eat and drunk of the beſt, and danc'd till the houſe ſhook again, all the while we were there. As ſoon as our Penance was terminated, we were brought be<g ref="char:EOLhyphen"/>fore the Conſiſtory, where with ma<g ref="char:EOLhyphen"/>ny
+<pb n="7" facs="tcp:35955:11"/> grievous words they aggravated to us the foulneſs of the fact. After this, we were forced in a full Con<g ref="char:EOLhyphen"/>gregation to creep before the Pul<g ref="char:EOLhyphen"/>pit on our hands and our feet, to ask God and the Church forgive<g ref="char:EOLhyphen"/>neſs of the ſcandal we had com<g ref="char:EOLhyphen"/>mitted. But this diſgrace laſted not long, for the multitude of ex<g ref="char:EOLhyphen"/>amples ſwallowed it up, whilſt not onely the greateſt part of the beſt ſort of Citizens, but Conſuls and Preachers too equally ſuffered it: Yet nevertheleſs, I timely foreſee<g ref="char:EOLhyphen"/>ing, that if once this rumour ſhould become childrens talk amongſt the <hi>Battavi,</hi> I ſhould quite loſe my cre<g ref="char:EOLhyphen"/>dit, I thought it high time, ſince my credit lay thus at ſtake, to pro<g ref="char:EOLhyphen"/>vide for my fame, confidering more ſeriouſly with my ſelf what I ſhould do before this was ſpread through <hi>Battavia,</hi> I prepared my ſelf, and went before the Conſiſtory, where I did counterfeit to fetch from the bottom of my heart, heart-killing ſighs, and throbbing words, but no hummings and hawkings: I told them I was a ſtranger, who neither
+<pb n="8" facs="tcp:35955:12"/> knew the Laws of their Nation, nor the genius of their people: I cried out I was ſeduced, and in the nar<g ref="char:EOLhyphen"/>ration of it expoſtulated with my ſelf, how ever ſuch an one as I ſhould be thus deluded into wicked<g ref="char:EOLhyphen"/>neſs, whoſe converſation hitherto had been ſo holy and unblameable. Wherefore I greatly intreated them to inform me which was the beſt and nigheſt way to avoid and aban<g ref="char:EOLhyphen"/>don ſuch wayes and Company. I howl'd like any Dog in the Church, and roaring, and twiſted my hands into as many poſtures and folds as a Suake can; and did ſo maintain it by my actions and expreſſions, that no one but was affected with my miſery, and thought me to be a fit object of their commiſeration. After this, I went to a Miniſter by my ſelf, told him with weeping eyes my ſad condition, and complained that I had ſinned ſo far, that I was almoſt, if not quite paſt remedy; but much ſad that I was to depart thence for home, like to a wandring ſheep, who durſt not ſo much as dare to look his Parents in the face, or
+<pb n="9" facs="tcp:35955:12"/> come into their fight. The Mini<g ref="char:EOLhyphen"/>ſter hearing this, comforted me with the example of <hi>David, Solo<g ref="char:EOLhyphen"/>mon, Manaſſes, Mary Magdalen,</hi> and many others, who had all egregi<g ref="char:EOLhyphen"/>ouſly and notoriouſly ſinned. But, in ſhort, I ſo ſmoothed the Parſon up with theſe fine words, that he writ to my Father, and commended my ingenuity, diligence, behaviour, after an extraordinary manner, and bids my friends they ſhould not fear, but that whatſoever coſt they beſtowed on me, would redound both to their great delight, and my profit. I preſently took a ſpecial care theſe Letters ſhould be ſent a<g ref="char:EOLhyphen"/>way, with ſome more Manuſcripts of mine, <hi>Of Abſolute and Free-will,</hi> which I had ſubtilly diſputed, deckt above with Hebrew, Greek, Latine and French Vowels, I commended the ſanctity of the City, extolled the Learning and the Piety of its Paſtors, giving thanks to my Pa<g ref="char:EOLhyphen"/>rents, that they had reduced me in<g ref="char:EOLhyphen"/>to the ways of health and of truth. This Meſſenger did ſo rejoyce my aged Parents hearts, that I was pre<g ref="char:EOLhyphen"/>ſently
+<pb n="10" facs="tcp:35955:13"/> the richer by two Crowns: but this will do no good, he that has already ore-run his bounds, has out-run all ſhame too: So that I grew worſe every day than other, and was grown ſo intollerably ex<g ref="char:EOLhyphen"/>orbitant, that I was commanded home; but I was afraid of <hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> Priſon, and long look'd for came at laſt, but I made ſhift to break Priſon and eſcape, and reſol<g ref="char:EOLhyphen"/>ved for <hi>Rome:</hi> I made a Gown of my Cloke, as all thoſe do who tra<g ref="char:EOLhyphen"/>vel for Religions ſake; to my Cap I faſtened a <hi>Canna,</hi> as all thoſe do who go a Pilgrimage to ſee the Re<g ref="char:EOLhyphen"/>liques of St. <hi>Jacob,</hi> that I might have the ſafer egreſs and regreſs in<g ref="char:EOLhyphen"/>to Oſtiaries and Monaſteries. But this kinde of life ſpoke low, there<g ref="char:EOLhyphen"/>fore I reſolved for <hi>Attalia,</hi> where I plaid the Thief both in Woods and Roads, in the Towns a Cut-purſe and Houſe-breaker. After this rate and life paſt I through all <hi>Germany</hi> into <hi>Holland,</hi> where, with all the art and ſtrength I had, I both rob<g ref="char:EOLhyphen"/>bed City and Country, ſtole Goods and Cattel. After this rate in the
+<pb n="11" facs="tcp:35955:13"/> company of Whores andRogues have I merrily ſpent this ſix years, and now it ſeems that one ſad half hour muſt end all this ſweet plea<g ref="char:EOLhyphen"/>ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I underſtand you are a pre<g ref="char:EOLhyphen"/>cious Rogue, a grand Sinner, who deſerve to be hanged twice for all your Roguery; nay Hell fire it ſelf for your ſins: ſo that I wonder you tell ſuch ſtories and laugh, as if there were no grief or puniſhment more to be feared to your Soul: Therefore tell me now you are a going out of this world, whether do you think you ſhall go.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>To heaven as well as you, who art not much better than I.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Do you think then you are as good and as honeſt as I am?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Yes that I do, and that I will prove out of your own proper Confeſſion <note n="a" place="bottom">Calv. Com. on Iſa. ch. 64. v. 7. of his Inſtitut. l. 3. c. 12. diſt. 9, 13, 14. Ibid. c. 14. diſt. 9.</note> one for all; Your beſt works in themſelves are filthy, deformed, deteſtable, nay meer
+<pb n="12" facs="tcp:35955:14"/> abominations and ſins, and like an unclean woman, alwayes infected with filth and ſpots, ſo that you are not accepted or eſteemed of God for any of your works, becauſe that they <note n="b" place="bottom">Belg. Confeſ. art. 24.</note> deſerve nothing but eternal puniſhment; and that <note n="c" place="bottom">Catech. Heidel. queſt. 60.</note> you altogether grievouſly ſinn'd againſt all the Commandments of God, neither have obſerved any one of them; nay, that you are al<g ref="char:EOLhyphen"/>together prone to all manner of malice and hatred both againſt God and your Neighbour. In thoſe printed Prayers at the end of your Pſalter, you confeſs (worthy Sir!) your worchineſs not onely to be blinde in your underſtanding, but unapt to all good; that it ſtrayes from God, follows its own vain imaginations; that it daily ſins, and that moſt hainouſly; and that it is by our Original Sin ſometimes ſo corrupted and inſtigated, that by reaſon of it there riſe many and ſinful thoughts, which fight againſt
+<pb n="13" facs="tcp:35955:14"/> God and your Neighbour: ſo that many times you tranſgreſs the com<g ref="char:EOLhyphen"/>mands of God without intermiſ<g ref="char:EOLhyphen"/>ſion. In brief, you are a miſerable ſinner, conceived and born in all ſin and corruption, prone to all evil, unapt and averſe to all good, ſo that you have unceſſantly, by your ſins throughout your whole life, excited the anger of the Lord againſt you, and according to his righteous judgement, has deſerved on thy ſelf his eternal (the more the pity) Condemnation. Your Conſcience accuſes you of this, <note n="d" place="bottom">Confeſ. Belg. Art. 7.</note> nay your very ſins witneſſe a<g ref="char:EOLhyphen"/>gainſt you; ſo that being convinced you often groan under the ſenſe of your corruption, and deſire to be freed from the body. I will ſpeak in ſhort: Since your being of lit<g ref="char:EOLhyphen"/>tle or no profit; for <note n="e" place="bottom">Teelings Dial. of Chriſtian mans ſtate, p. 8, 9.</note> from your nativity you have been a childe of wrath, and heir of Divine venge<g ref="char:EOLhyphen"/>ance, hadſt communion with dam<g ref="char:EOLhyphen"/>ned Devils when thou waſt in thy
+<pb n="14" facs="tcp:35955:15"/> Mothers womb; full of all natu<g ref="char:EOLhyphen"/>ral poiſon, whence all evil actions proceed; that you can do nothing more than ſin; yea, when thou waſt an Infant, hadſt thou but been tempted by the leaſt occaſion: for you are naturally as propenſe to ſin, as the Serpent is to bite or ſting: and as is the Serpent odious to men, not for the miſchief it has done, but the poiſon it carries a<g ref="char:EOLhyphen"/>bout with it; ſo even you are coun<g ref="char:EOLhyphen"/>ted odious by God, by reaſon of that poiſon of Original Sin, in which you were born and concei<g ref="char:EOLhyphen"/>ved. All this, and much more of the ſame kind, you ſay of your ſelves, and have ſubſcribed it with your own hand: Nay, you brand all thoſe which deny to affirm theſe things with you, by the name of Hereticks, as <hi>Arminians, Pelagians,</hi> and ſuch like Names; and how would you take it if ſome one, <hi>Shi<g ref="char:EOLhyphen"/>mei</hi> like, ſhould make it his buſineſs to reproach and aſſault you with diſhoneſty and maledictions, and vomit out, if there be any things worſe than theſe, upon you?</p>
+            </sp>
+            <pb n="15" facs="tcp:35955:15"/>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>For the honour of God, and the exalting of the ſuperabundant riches of his grace, I willingly con<g ref="char:EOLhyphen"/>feſs my ſelf guilty of all this; nay, God will that his choſen and faith<g ref="char:EOLhyphen"/>ful ſhould be ſuch ſinners, that they ſhould not boaſt of themſelves, but <note n="f" place="bottom">Calv. Inſtit. l. 3. c. 14. diſt. 9.</note> be humble; which humility confiſts in this, that we empty our ſelves of all goodneſſe whatſoe<g ref="char:EOLhyphen"/>ver.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>And of late I have believed this to be true too, Sir; and I did further judge, if I may ſpeak my minde in this caſe, that I was forth<g ref="char:EOLhyphen"/>with to do no good my ſelf, for the further I was off from doing any good, the truer I could confeſs my ſelf to be void of all righteouſneſs and goodneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I would not have you ſo un<g ref="char:EOLhyphen"/>derſtand me, as if God would have us to be ſinners, and not endevour to do good works; but that 'tis onely by his grace, leſt we ſhould ſeek to be juſtified by our works.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I believe the ſame yet; and
+<pb n="16" facs="tcp:35955:16"/> becauſe I well know how deadly a ſin it is to lean to good works for juſtification, and ſee with what ſub<g ref="char:EOLhyphen"/>tilties the devil does hunt men, how with hereſies he entraps men, I have even lain aſide doing good, if I could, onely leaning to the free grace of God.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Muſt you have your will and your judgement afore all others, and interpret our doctrine no o<g ref="char:EOLhyphen"/>therwiſe then if it were the cauſe of your perverſe life? Fy, Fy. God intends this, that men ſhould not ſeek to be juſtified by works, but faith.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>By faith, what faith?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>As our Catechiſm has it in the 60 queſtion; I believe onely in Jeſus Chriſt, through whom by faith I ſhall be juſtified before God. My conſcience accuſes me of all theſe things, that I have ſinned moſt hainouſly againſt all the command<g ref="char:EOLhyphen"/>ments of God, that I have obſer<g ref="char:EOLhyphen"/>ved none of them, and am now li<g ref="char:EOLhyphen"/>able to all evil; yet the good God, without any merit of mine, out of his own meer grace, both gives and
+<pb n="17" facs="tcp:35955:16"/> imputes to me the perfect ſatisfacti<g ref="char:EOLhyphen"/>on, juſtice, and ſanctification of Chriſt, as fully as if I had commit<g ref="char:EOLhyphen"/>ted no ſin; yea, as if I had per<g ref="char:EOLhyphen"/>formed all that righteouſneſſe and obedience which Chriſt either did or ſuffered in my own perſon, as I apply this by belief to my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>You ſay well Sir, this pure and ſound faith has been alwayes my faith, and ſo that I am more perſwaded I have alwayes ſtuck cloſe to that Doctrine of the refor<g ref="char:EOLhyphen"/>med Churches; ſo that I have al<g ref="char:EOLhyphen"/>moſt wearied God, if it were poſſi<g ref="char:EOLhyphen"/>ble, with my prayers, in which faith, without any good works I perſiſt. Furthermore, this was al<g ref="char:EOLhyphen"/>wayes in my mind, often in my mouth, <note n="g" place="bottom">Luthers preface to Galat.</note> That it was the chiefeſt art of a Chriſtian to know no law, no good works, no not a tittle as to juſtification: <note n="h" place="bottom">Luth. lib. of Chriſtian liberty.</note> for a Chriſtian nei<g ref="char:EOLhyphen"/>ther wants works or the law, after by faith he is freed from all laws.
+<pb n="18" facs="tcp:35955:17"/>
+                  <note n="i" place="bottom">Luth. on 2. chap. to Gal. Id. de lib. Chriſtian.</note> Faith is onely neceſſary to ſalva<g ref="char:EOLhyphen"/>tion, other things we are freed from whether commanded or forbid. Goodworks make not men good, nor bad ones bad, and as to unbelievers no good work profiteth to their ſal<g ref="char:EOLhyphen"/>vation, ſo on the contrary, no bad action makes a man bad or con<g ref="char:EOLhyphen"/>demns him, but onely unbelief: For where faith is, no ſin can hurt.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What then? have you ſuch an eſteem of good works indeed; we teach indeed, that faith in Chriſt does alone juſtifie, yet notwithſtand<g ref="char:EOLhyphen"/>ing we are bound to obſerve the precepts of God, as it is written, if you will enter into life eternal, keep the commandments.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Gently good brother; <note n="l" place="bottom">Luth. in Serm. on Joh. 16.4.</note> for thus you deny Chriſt, and deſtroy faith, attributing that to Divine commands, or the law, which is onely due and proper to God. Fur<g ref="char:EOLhyphen"/>thermore, I am almoſt induced to believe, that you are an heretick, whilſt you attribute ſomething to
+<pb n="19" facs="tcp:35955:17"/> good works in our juſtification be<g ref="char:EOLhyphen"/>fore God. <note n="m" place="bottom">Luther N. T.</note> I ſay further, Sir, be<g ref="char:EOLhyphen"/>cauſe the way is narrow, you ought to be lowly and humble if you in<g ref="char:EOLhyphen"/>tend to paſſe: for thoſe that are loaded with good works, are like thoſe we ſee go pilgrimage to the re<g ref="char:EOLhyphen"/>liques of S. <hi>James,</hi> ſo incompaſſed with reeds, that they cannot paſſe thither; <note n="n" place="bottom">Id.</note> therefore if you come to heaven with a great bag full of good works, you will be forced to lay them down, for you cannot get in with them.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I confeſſe that good works are not looked upon as the impul<g ref="char:EOLhyphen"/>ſive cauſe of our juſtification, and ſalvation; yet for all that we are to take heed that we commit no bad ones.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Very right Sir; we do be<g ref="char:EOLhyphen"/>ware of ſins, <note n="o" place="bottom">Catech. Heidel. qu. 114.</note> but much more of the law and good works, onely heeding divine promiſes and our end. Good God! What good can ſuch miſera<g ref="char:EOLhyphen"/>ble ſinners as we do? when as
+<pb n="20" facs="tcp:35955:18"/> the moſt holy men who ever lived, whilſt they were in this life, have had ſo ſmall beginnings of obedience, that you could not out of all their actions pick out one which did not deſerve the juſt puniſhment; yea, the eternal puniſhment rather of Gods wrath, then worthy of the reward of eternal life. Go to there<g ref="char:EOLhyphen"/>fore you Pedlers and Sectaries in religion with your good works, and follow me, who onely build my faith and help in the free grace and mercy of God. <note n="p" place="bottom">Luther of Capt. Babyl. ch. of Baptiſm.</note> For a baptized Chriſtian is ſo rich, that no ſinnes whatſoever they be, can rob him of his inheritance, or impoveriſh him, unleſſe he fall away of himſelf from the faith. All theſe are the very expreſſe words of <hi>Luther</hi> and <hi>Cal<g ref="char:EOLhyphen"/>vin:</hi> and are theſe of your refor<g ref="char:EOLhyphen"/>med Divines?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes; but I perceive friend, that you confiding in theſe and ſuch like expreſſions, have taken too much liberty to commit hain<g ref="char:EOLhyphen"/>ous ſins; therefore 'tis neceſſary
+<pb n="21" facs="tcp:35955:18"/> that you be inſtructed of that will of God, by which he will be o<g ref="char:EOLhyphen"/>beyed.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>You ſpeak well Sir; but don't you think that I have often thought of it? truly I have, and have often and much conſidered with my ſelf about it; for <note n="y" place="bottom">Sturm. of Predeſt. Theſ. 18. pag. 117.</note> I knew the will of God was twofold, either Secret or Revealed: So that God wills many things, which he will not reveal, <note n="z" place="bottom">Id. Theſ. p. 31.</note> as is clear by this inſtance, <note n="a" place="bottom">Perk. of Free-grace, p. 45.</note> God promulga<g ref="char:EOLhyphen"/>ted this edict by <hi>Moſes</hi> to <hi>Pharaoh,</hi> ſaying, <hi>Let my people go,</hi> when as the ſecret will of God, and purpoſe, was, that he ſhould not let the peo<g ref="char:EOLhyphen"/>ple go. Neither <note n="b" place="bottom">Calv. ad calumn. Nebulon.</note> ought this to ſeem a wonder to you, becauſe God has by his ſecret will decreed ſome to ſin, who by his revealed will he has commanded to do no evil.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Why ſo? do you believe you perform the will of God when you commit iniquity?</p>
+            </sp>
+            <pb n="22" facs="tcp:35955:19"/>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>If <note n="c" place="bottom">Sturm. of Predeſt. Theſ. 18. p. 17.</note> you look after the hidden will of God, whereby he has ordered all things to work for his glory, wicked men do do the will of God: but <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f you look to the revealed will of God, wicked men do it not.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You ſay right; therefore you are alwayes to be intent on the ex<g ref="char:EOLhyphen"/>ternal revealed will of God, be<g ref="char:EOLhyphen"/>cauſe his hidden will you do not, cannot know.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Truly Sir, theſe ſame two wills in or of God, have alwayes made a great noiſe in my head, and ſounded very ſtrangely in my ears: <note n="d" place="bottom">Piſc. againſt Schafm.</note> for ſeeing God does not al<g ref="char:EOLhyphen"/>wayes will what he <note n="e" place="bottom">Dungan. Pacif. fol. 56.</note> does reveal to us to have willed, and his reveal<g ref="char:EOLhyphen"/>ed will to be call'd ſo, but impro<g ref="char:EOLhyphen"/>perly, his hidden properly: fur<g ref="char:EOLhyphen"/>thermore, <note n="f" place="bottom">Calv. ad calumn. Neb. pag. 161 to Art. 7.</note> that God ſhould by his ineffable counſel will a thing to this end, and make it for another,
+<pb n="23" facs="tcp:35955:19"/> and forbid that to be done which he wills to have done, I was not very inquiſitive about this revealed will.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>How dare you belch forth ſuch Blaſphemies?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I ſpeak the very truth it ſelf; for when-as <note n="g" place="bottom">Sturm. of Predeſt. Theſ. 1. fol. 3.</note> the ſecret will of God is wholly, onely, and alwayes done, and nothing happens in the world, but God did before decree it, nay when this hidden Decree of God is the neceſſary cauſe of all things; ſo that God himſelf wills ſin by the will of his <hi>bene placet;</hi> I have alwayes counted it ſafe to fol<g ref="char:EOLhyphen"/>low the efficacious will of God, leſt otherwiſe I ſhould take labour in vain.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <note n="h" place="bottom">Ripert. in Colloq. p. 250.</note> It is manifeſt that the Omnipotent God, according to his ſecret Decree and <hi>bene placet,</hi> would not have done what he has com<g ref="char:EOLhyphen"/>manded to men in his revealed word; and that <note n="i" place="bottom">Id. pag. 252.</note> all things, as
+<pb n="24" facs="tcp:35955:20"/> it appears, according to God and his Decree, infallibly and neceſſa<g ref="char:EOLhyphen"/>rily come to paſs. I go not about to deny, nay I expreſly hold this opinion in my judgement: yet ne<g ref="char:EOLhyphen"/>vertheleſſe you ought to be the more ſollicitous and careful over your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I have read in Scripture, Sir, that Chriſt forbids all manner of vain ſollicitouſneſs of minde, as to adde one cubit to ones height, to make one hair black or white, and others of theſe ſorts: Thence I judge, I ſhould do a great deal foo<g ref="char:EOLhyphen"/>liſher, as well as more irreligious, if I ſhould preſume to endeavour and ſtrive againſt the decree and efficacious will of God. Therefore you ought to confeſs with me, that all operations, humane commo<g ref="char:EOLhyphen"/>tions, internal and external, as well the bad as good, whether of under<g ref="char:EOLhyphen"/>ſtanding, heart or will, have both their riſe and efficacy from the force and impulſe of Divine Pro<g ref="char:EOLhyphen"/>vidence, ſo that they cannot but chuſe whatſoever God ſhall will: So that in <hi>Adams</hi> fall God had
+<pb n="25" facs="tcp:35955:20"/> deſtinated his heart both to that end and action: And hence it is <note n="l" place="bottom">Calv. of Predeſt. p. 842.</note> that men can never will or do any thing, but what God prompts them too, whether it be good or evil; ſo that he ſometimes guides their hands, ſometimes holds them, now turns them this way, then that way, and what way ſoever he plea<g ref="char:EOLhyphen"/>ſes, that they may effect whatever he has decreed, which is only not to be underſtood of actions which are, but of bad and evil likewiſe: for <note n="m" place="bottom">Calv. de locis praecipuis.</note> men ſometimes, like unto ſa<g ref="char:EOLhyphen"/>vage beaſts, run into all manner of viciouſneſs; yet for all this it often happens, that they are ſo held in and curbed by an inviſible and ſe<g ref="char:EOLhyphen"/>cret bitt, that they are not able ſo much as to move their finger amiſs of themſelves, but rather effect the will of God than their own; <note n="n" place="bottom">Beza againſt Ca<g ref="char:EOLhyphen"/>ſtel Aphor. 22.</note> for God ſo works by inſtruments, that he does not onely permit that they ſhould do ſuch an action, and it
+<pb n="26" facs="tcp:35955:21"/> ſhould fall out to ſuch an end, but he himſelf alſo excites, impels, moves, governs, (and what is more than this) creates alone and above, that what he has decreed ſhould come to paſs by theſe very means; and without queſtion 'tis for this very cauſe, that God has given <note n="o" place="bottom">Calv. ad calumn. Neb. 11.</note> a will and inclination to the worſt of men, that for this very reaſon he might be ſaid to be the ſole and genuine Cauſe of all things whatſoever, willing and effecting <note n="q" place="bottom">Trig def. fol. 172.</note> that wicked men ſhould live in their luſts, and this ſame neceſſity of ſinning is impoſed by God: Therefore you Mr. Parſon, all that you have ſaid of this ſame ſpecial care and watchfulneſs, is meer nonſenſe, and the abſolute iſſue of your imprudence; for <note n="r" place="bottom">Geſel. probl. c. 14. fol. 62.</note> 
+                  <note n="s" place="bottom">Ren. in cat. aur. fol. 32.</note> wicked men are by the ſecret hand and power of God, as by a hidden ſtring, not knowing them<g ref="char:EOLhyphen"/>ſelves directed and twitched to an
+<pb n="27" facs="tcp:35955:21"/> end and deſign of which they are altogether ignorant, as a man is that ſhoots at a mark, and miſſing that, hits ſome neighbouring thing, which he neither intended or knew of.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You prate to me, as if you ſhould not bruſh to affirm God to be the author of your ſins.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>If by Author <note n="t" place="bottom">Pezel. treat. of Pred<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſt.</note> you mean one who perſwades, impels, or any other way adminiſters an occaſion of doing any thing, you may very ſafely call God the Author of ſin; as for example, when <note n="u" place="bottom">Joh. Urba in ſua Tapeinophroſyna reſol. p. 7.</note> 
+                  <hi>Adam</hi> is the cauſe of ſin, and God the cauſe of <hi>Adam,</hi> why may you not call God the cauſe of ſin? Nay, God is the very prime firſt Cauſe of ſin; <note n="x" place="bottom">Ruard. Acron. expoſ. in Catechiſ. queſt. 9.</note> but this you muſt take with a grain of ſalt, as thus? The ſame act, <note n="y" place="bottom">Zuingl. d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> provid. c. 6.</note> as Adultery or Homicide, as God is the Author and impulſive cauſe, is no ſin, but as it is the work
+<pb n="28" facs="tcp:35955:22"/> of man is a ſhameful and Soul-kil<g ref="char:EOLhyphen"/>ling wickedneſs: For, for juſt cau<g ref="char:EOLhyphen"/>ſes, <note n="z" place="bottom">Calv. de Predeſt. fol. 844</note> although unknown to us, wickedneſs comes forth from God, which are unjuſtly committed by men; <note n="a" place="bottom">Piſc. againſt Schafm. pref. p. 3.</note> and God does ſecretly ſtir up men to thoſe villanies he has openly forbid: Nay, <note n="b" place="bottom">Sturm. of Predeſt. Theſ. 15, 16.</note> God him<g ref="char:EOLhyphen"/>ſelf works all things in all men, yea their very ſins, and whatſoever is done, is irreſiſtibly done; which is thus evidenced; <note n="c" place="bottom">Triglan. def. fol. 164.</note> God by an ef<g ref="char:EOLhyphen"/>fectual Decree and Providence com<g ref="char:EOLhyphen"/>pels Thieves to Homicide, as a King compels his Subjects to pay their Tribute; or as one on horſe-back makes the horſe to go what pace and what way he will.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Therefore you do not be<g ref="char:EOLhyphen"/>lieve that 'tis you have done all this wickedneſs and roguery?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Yes, but I do, to wit, againſt the external will of God, but againſt his internal will and providence
+<pb n="29" facs="tcp:35955:22"/> not a jot, for this will <note n="d" place="bottom">Rippert. in Colloq.</note> of the Divine <hi>bene placet</hi> of God, is then alſo done, when a man ſins againſt the Precepts of God.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Then you did not ſo much as think of the internal and ſecret will of God?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Why Sir, can you think I could think ſo? was I able (the Divine Providence and will of God premiſed) to think any otherwiſe than I did? for if it were the hid<g ref="char:EOLhyphen"/>den will and providence of God that I ſhould think ſo, who was I, or what could I do to reſiſt it? but becauſe it was not his internal Decree, according to our Doctrine, I could not ſo much as think it; nay, as ſoon as ever I perceived any motions or ſuggeſtions in my ſelf, to any thing which God had for<g ref="char:EOLhyphen"/>bidden by his Law, it preſently run in my minde, whether God or no had not by his ſecret will pre-or<g ref="char:EOLhyphen"/>dained that I ſhould do it; and whether or no he did not excite and impel me to it, that he might
+<pb n="30" facs="tcp:35955:23"/> bring to paſs by me, what he had from all Eternity inevitably de<g ref="char:EOLhyphen"/>creed of or for me: reaſoning thus with my ſelf; If I reſiſt, I ſhall be counted, with <hi>Lucifer,</hi> to be an ene<g ref="char:EOLhyphen"/>my to God, and a fighter againſt him; and on this, Whitherſoever the dictates of my will (though de<g ref="char:EOLhyphen"/>praved) carried me, I acted it, and hurried that way with all violence, ſo that I know now as ſure as God's in heaven, that whatſoever wicked<g ref="char:EOLhyphen"/>neſs I committed, was the internal will <hi>bene placet</hi> and Decree of God. For had it not been agreeable to his internal will, it would never have come to paſs ſo long as the world had ſtood. But to ſay a lit<g ref="char:EOLhyphen"/>tle more: If at any time I went but about to conſider more accu<g ref="char:EOLhyphen"/>rately and exactly with my ſelf, I was all on a fire till I had multi<g ref="char:EOLhyphen"/>plied faults, and ſinn'd to ſome tune, ſeeing it highly acceptable to God for me to do ſuch things: <note n="e" place="bottom">Piſcat. as above. Theſ. 35. p. 32.</note> for God has as it were a neceſſi<g ref="char:EOLhyphen"/>ty of our ſinning, that he may the
+<pb n="31" facs="tcp:35955:23"/> more manifeſt his glory, becauſe he cannot exalt his mercy, or beſtow it but on thoſe that are miſerable ſinners, and have need of it; nei<g ref="char:EOLhyphen"/>ther juſtly damn men, unleſs they were ſinners: <note n="f" place="bottom">Id. Theſ. 27. Beza Predeſt. againſt Caſtel. in ref. cal. ſecundae.</note> So that unleſs this be granted, God could not, if he would, bring about his principal end, which are the ſhewing of his Mercy and Juſtice towards ſome, to manifeſt his Mercy for their deli<g ref="char:EOLhyphen"/>verance, and in their ſalvation; towards other, to manifeſt the ex<g ref="char:EOLhyphen"/>actneſs and rigor of his vengeance in their deſtruction and damnation. <note n="g" place="bottom">Smout. Concord. fol. 107.</note> Therefore it was neceſſary that man ſhould fall from grace, that God might have an occaſion and reaſon of declaring both his Mercy and Juſtice. Furthermore, <note n="h" place="bottom">Martyr in C. L. claſſ. 3. c. 2. diſt 48.</note> ſins make as well to Reprobation as Predeſtination, for who are repro<g ref="char:EOLhyphen"/>bated, are by them brought to de<g ref="char:EOLhyphen"/>ſtruction; who predeſtinated or ſa<g ref="char:EOLhyphen"/>ved
+<pb n="32" facs="tcp:35955:24"/> (for here it is all one thing meant) by their ſins do ſo much the more illuſtrate the goodneſs and glory of God, whilſt they are redeemed out of them, for all them. And again, ſeeing God ſo allow of ſin, that he let it exiſt, I thought my ſelf his creature, and have of<g ref="char:EOLhyphen"/>ten ingeminated this ſaying, Be<g ref="char:EOLhyphen"/>hold thy Servant, Lord, alwayes ready and willing to ſin.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But do you hear friend, were you alwayes wont to live free of all anxiety and terrors of conſcience?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>No: I was alwayes merry ſince I was born, thinking thus with my ſelf, If I am elected, the Spirit of Chriſt will work converſion and faith in me with that force and power, which is to the elect irre<g ref="char:EOLhyphen"/>ſiſtible: for Renovation is a ſecond Creation, which does not depend upon the will of man, but ſole power of God. <note n="i" place="bottom">Donteclock in reſponſ. ad ignoti ſcri<g ref="char:EOLhyphen"/>ptum litera, L. 4. M. 1.</note> 
+                  <note n="k" place="bottom">Martyr L.C. de lib. arbit. p. 978.</note> For as thoſe which are dead cannot raiſe them<g ref="char:EOLhyphen"/>ſelves
+<pb n="33" facs="tcp:35955:24"/> againe; ſo I can by no means raiſe my ſelf from the death of ſin, how much ſoever the word of God ſound againſt, threatning to re<g ref="char:EOLhyphen"/>ward this Spirituall death with an eternall, unleſs God himſelf be pleaſed to give a new Spirit unto me: wherefore I did wiſely even to tarry <note n="l" place="bottom">Bucer in Rom. 9.</note> till God ſhould come in upon me, and by his word and inſtructions turn my heart; for when I ſhould be compeld I could not chuſe but follow. On the other ſide, I concluded with my ſelf thus: If I am reprobated, all that lies in me either to do or ſuffer will be vaine; my doings can do me no good, may be they may do me harm; <note n="m" place="bottom">Donteclock a<g ref="char:EOLhyphen"/>gainſt Caſtel, p. 171.</note> nay though I ſhould perform all the good deeds <note n="n" place="bottom">Marl. on Ioh. 15. v. 2.</note> that all the Saints ever did or ſhall do, I could not be ſaved, the decree of God ſtands ſo firme and ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You ſhould have obſerved the outward and inward call of
+<pb n="34" facs="tcp:35955:25"/> God both by his word and ſpirit.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Could I have behaved my ſelf any otherwiſe then I have done? <note n="o" place="bottom">Geſel. in probat. fol. 38.</note> for who are not outwardly by the Goſpel and inwardly by the Spirit, called according to the good purpoſe of God, cannot obey this call, neither can they believe, or <note n="p" place="bottom">Id. 38.</note> convert themſelves; and God <note n="q" place="bottom">Smout. in pref. Concopd. fol. 9.</note> draws thoſe that believe ſo that they will not, cannot, neither can will to reſiſt his will. Whom God enlightens, and whoſe hearts he moves, are compelled, and cannot but follow when 'tis God that calls. To illuſtrate this by an example: <note n="r" place="bottom">Anthon. Thyſ. in doct. &amp; ord. re<g ref="char:EOLhyphen"/>form. Eccleſ.</note> 
+                  <note n="s" place="bottom">Contra-Remonſt. in Colloq. Hag.</note> as none can hinder his own production, or reſurrection, ſo none can hinder the Free-grace of God working in Jeſus Chriſt for our regeneration and reſurrection to a ſpirituall life: from theſe you abundantly ſee, if I had bin
+<pb n="35" facs="tcp:35955:25"/> thus handled and called of God, I could have done no other then followed and obeyed his will.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Did you then never heare God thus calling, nor find your ſelf ever moved?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Yes, I have often heard; yet you very well know, that as God has an internall and externall will, ſo there is an internall and ex<g ref="char:EOLhyphen"/>ternall call: <note n="t" place="bottom">Pareus in Rom. 9.</note> but if this exter<g ref="char:EOLhyphen"/>nall call ſhall be joyned with the internall, 'tis to be an effect and an ineffable figne of his predeſtina<g ref="char:EOLhyphen"/>tion; and this is what the Synod of <hi>Dort</hi> have not of late ſo clearly demonſtrated. <note n="u" place="bottom">Synod of Dort cap. 1. Art. 6.</note> Some have faith beſtowed on them by God, and others have not, proceeds from the eternall decree of God; according to which decree, he ſoftens the hard hearts, and bends their wils to believe: but the non-elect (the elect by his juſt judgement) he leaves to the hardneſs and malice of their own hearts. Therefore, Sir, you
+<pb n="36" facs="tcp:35955:26"/> ſeeme to be eaſilier bafled then one of your Coat ſhould be, bawling at me ſo often, that I did not hearken to the call and invitation of God; and fiſhing out of me, whether I had not heard this call or no, and was moved at it. <note n="x" place="bottom">Synod of Dort, cap. 3, 4. Art. 10.</note> For that ſome are called and converted by the Mi<g ref="char:EOLhyphen"/>niſtry of the Goſpell, is not to be aſcribed to man, as if by his own free will from others inſtructions, he could diſcern and follow ſuffici<g ref="char:EOLhyphen"/>ent grace and works for his con<g ref="char:EOLhyphen"/>verſion, (which that proud Hereſie of <hi>Pelagius</hi> affirms) but to God, who as he hath from all eternity choſen his in Chriſt, ſo in time he doth effectually call them, beſtows on them Faith and Repentance, and tranſlates them out of dark<g ref="char:EOLhyphen"/>neſs into the Kingdom of his dear Son; nay, <note n="y" place="bottom">Ibid. Art. 12.</note> God creates this new creation in us, without us, by ſuch a virtue which is not inferior to that of the great Creation or Reſurrection: So that all thoſe in
+<pb n="37" facs="tcp:35955:26"/> whoſe hearts God has thus ſtrange<g ref="char:EOLhyphen"/>ly and wonderfully wrought, are infallibly regenerated, and do actu<g ref="char:EOLhyphen"/>ally believe. Why do you accuſe me that I am not converted? when to ſpeak the truth, I do not ſee how 'tis poſſible, that one who is al<g ref="char:EOLhyphen"/>wayes tottering and doubting whe<g ref="char:EOLhyphen"/>ther he be elected or not, can con<g ref="char:EOLhyphen"/>form himſelf to the eternal Call, this lett being left too over and above, that this internal Call doth not concur.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Have you then all this while judged your ſelf to be a reprobate? O ſad to relate!</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>That I have; and that not without a cauſe too: becauſe God of his own good pleaſure has re<g ref="char:EOLhyphen"/>probated the greateſt part <note n="z" place="bottom">Smout. Concord. fol. 109.</note> of Mankinde, and reprobates <note n="a" place="bottom">Trigl. Def. fol. 83.</note> are not damn'd for their ſins, neither are fore-ſeen ſins the cauſe why any ſhould be reprobated; ſo that 'tis neceſſary we confeſs, <note n="b" place="bottom">Geſel. probat. f. 216, 217.</note> evil
+<pb n="38" facs="tcp:35955:27"/> works and incredulity not to be the cauſe of reprobation: So that God out of his will and counſel hath ordained, That ſome ſhould be born as infallibly heirs of Hell as of their Parents, that by their deſtru<g ref="char:EOLhyphen"/>ction his Name might be glorified. Pondering theſe things in my minde, I have oftentimes ſilently thought, O good God! haſt thou alſo reprobated me with the great<g ref="char:EOLhyphen"/>eſt part of Mankinde? I did eaſily believe it, becauſe thou haſt ſo or<g ref="char:EOLhyphen"/>dered our reprobation, that though it be our miſery, it turns to thy glory.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>This is very true, that God <note n="c" place="bottom">Anthon. Thyſ. ad Summam Baron. p. 20.</note> from eternity, without any reſpect to ſin, by his pure &amp; abſolute Decree, which no man can underſtand, has rejected the greateſt part of Man<g ref="char:EOLhyphen"/>kinde, and created them to deſtru<g ref="char:EOLhyphen"/>ction, or bequeathed them to de<g ref="char:EOLhyphen"/>ſtruction in <hi>Adams</hi> fall, from an im<g ref="char:EOLhyphen"/>mutable and inevitable Decree, which he decreed with and in him<g ref="char:EOLhyphen"/>ſelf:
+<pb n="39" facs="tcp:35955:27"/> nay, if any one <note n="d" place="bottom">Id. pag.</note> ſhall dare to ſay, God hath not decreed to hate man, as man, his creature, but as a ſinner, he contradicts the Apo<g ref="char:EOLhyphen"/>ſtle, and ſo conſequently won't take the Authority of God him<g ref="char:EOLhyphen"/>ſelf: yet for all this you are not by and by without any more ado to conclude your ſelf a Repro<g ref="char:EOLhyphen"/>bate.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>You ſay well; but how is it poſſible, that a man whoſe faith is oppugned with ſo many various and ſtrong temptations, who is given to ſo many luſts, ſhould eaſily perſwade himſelf not to be repro<g ref="char:EOLhyphen"/>bated? as for example, if a man knowes and weighs with himſelf, that not onely aged people, but alſo Infants are of this number, <note n="e" place="bottom">Perk. Cat. pag. 393.</note> ſo that among Infants that die, <note n="f" place="bottom">Thyſ. in expl. doct. de Praedeſt. p. 245.</note> ſome are ſaved, ſome damned, and that before they have done either good or evil, for that decree <note n="g" place="bottom">Perk. ut ſupra.</note> concerning reprobated Infants
+<pb n="40" facs="tcp:35955:28"/> is ſo; born, and died, and damn<g ref="char:EOLhyphen"/>ed, as it were all in an inſtant, for the guilt of orignall and innate ſin which they brought into the world with them; and for this cauſe <note n="h" place="bottom">Calv. ad calumn. Neb. ad Art. 13, 14.</note> many children are taken out of this world, and God, as it were, ſnatches the tender Infant from its mothers breaſt, and throwes it headlong into eternall death: but, what is more, God does not onely deal ſo with the children of Jews, Turks, Infidels, but <note n="i" place="bottom">Donteclock in pacif. lit. L.</note> alſo with the baptiſed children of Chriſtians and believers, that ſome of them dying in their Infancy are damn<g ref="char:EOLhyphen"/>ed. Whether all the children of Believing parents dying ſuch ſhall certainly and undonbtedly be ſaved, the word of God is ſilent; but I dare ſay a little more with Infants <note n="l" place="bottom">Rippert. in Colloq. p. 802.</note> which die in Chriſt before they are able to do good or evil, 'tis thus, they muſt either be ſaved by grace, or damned by
+<pb n="41" facs="tcp:35955:28"/> nature as children of wrath as well as others. Truly Mr. Parſon, this is harſh Doctrine for him who is bound to obſerve your Creed, ſo that I ſcarce underſtand what to make of it.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But heare, friend; <note n="m" place="bottom">Pareus Rom. c. 2. queſt. 9.</note> if it be in the power and liberty of man to kill an Oxe or a Sheep for his uſe, to hunt an Hare or Partridge to death for his pleaſure; much more does it lye in the will and freedom of the Creator, without any in<g ref="char:EOLhyphen"/>juſtice, to reject or deſert his creature, for his own glory: nay, 'tis a thouſand times equaller, that all the creatures both in heaven and earth ſhould by their generall and eternall deſtruction demonſtrate the divine glory and majeſtie, then that the death of one ſingle Fly or Gnat ſhould go, for the demonſtrating of the glory of all the men in the world. And this in God is not to be ſpoken againſt, but prayed againſt; and the elect cannot but give God
+<pb n="42" facs="tcp:35955:29"/> thanks that he has condemned the wicked, although he did decree them to it, becauſe he reprobated them for their good, and to teſtifie how great his love was towards them: nay, the very damned have not whereof to complain, but ra<g ref="char:EOLhyphen"/>ther to give thanks; for though they be fitted to deſtruction, God fitted them not to it in vain, but for many ſpecial ends, and princi<g ref="char:EOLhyphen"/>pally his own glory.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>And for this very cauſe <note n="n" place="bottom">Gomar. diſp. de Praedeſt. pag. 105, 106.</note> I have often thought, we reprobates ought to be ſo much the quieter: for if private and peculiar good were onely to be looked after, it were better not to live at all, than to live a little, or be a while a dy<g ref="char:EOLhyphen"/>ing, till we plunge into eternal death; yet for a publick and uni<g ref="char:EOLhyphen"/>verſal good in this world, the con<g ref="char:EOLhyphen"/>trary (to wit, Damnation) is better, that the particular may ſerve for the good of the whole, and the Creature make way for the glory of
+<pb n="43" facs="tcp:35955:29"/> its Creator. Therefore although in the middle of Summer my no<g ref="char:EOLhyphen"/>ſtrils ſhould be frozen up cloſe, yet nevertheleſs I might be in a poſſibi<g ref="char:EOLhyphen"/>lity of ſmelling that it would be, though we be caſt into hell by God, &amp; tormented, yet we ſhall be forced to thank him, that he has honoured us his Creatures with ſo divine a ſervice, becauſe the <note n="o" place="bottom">Gomar. diſp. de Praedeſt. pag. 105, &amp; 106.</note> dignity of the chief glory of God, and of the elect, is ſo great an advantage, that the Elect by an abſolute inward propenſity, actuated by the Spirit of God, would wiſh (if it were poſ<g ref="char:EOLhyphen"/>ſible) though by their own proper damnation and deſtruction, the ſal<g ref="char:EOLhyphen"/>vation of reprobated Jews, though unbelieving and obſtinate: So that this ſame ran often in my minde, how exceedingly happy ſhall even we the reprobated be.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You ſeem to me to have uſed all the induſtry, and weighed all the Arguments that are or can be ſaid or done about this Argument
+<pb n="44" facs="tcp:35955:30"/> of Reprobation; yet it behoved you onely to have led your life by that Word and Doctrine by which he call'd you.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I do not deny, truly, but that this ſame Reprobation hath a long time had deep impreſſion in me, and being often troubled with it, ſatiſ<g ref="char:EOLhyphen"/>fied my ſelf thus: The reprobated cannot at all obey God, nor be<g ref="char:EOLhyphen"/>lieve, nor convert, nor juſtifie, nor ſave <note n="p" place="bottom">Muſc. L C. de elect. c. 10.</note> themſelves, though God himſelf ſhould call them, and therefore are not converted, be<g ref="char:EOLhyphen"/>cauſe God will not have it ſo: <note n="q" place="bottom">Trig. D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f. fol. 156. Calv. in Ezek. 18. 23.</note> nay God does offer his grace both in his Word and Sacraments to ſome Reprobates within the pale of the Church, not to that end, <note n="r" place="bottom">Anthon Thyſ. in Doct. &amp; Ord. Eccleſ. Reform. p. 21. f. 216, 217.</note> that they ſhould be ſaved by thoſe means, but on the contrary, that they might have leſs excuſe than others, and might be more ſe<g ref="char:EOLhyphen"/>verely puniſhed in the end.</p>
+            </sp>
+            <pb n="45" facs="tcp:35955:30"/>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>All this is as true as truth it ſelf: <note n="s" place="bottom">Calv. Inſtit. lib. 3. c. 24. diſt. 12.</note> for, whom God has call'd to the ignominy of life, and certain<g ref="char:EOLhyphen"/>ty of eternal death, that they ſhould be the inſtruments of his wrath, and examples of his Juſtice, he deprives of the faculty of hear<g ref="char:EOLhyphen"/>ing his Word, and afterwards more and more blinds and hardens them, that they may be brought to thoſe ends to which he has appointed them. Oftentimes alſo <note n="t" place="bottom">Id. lib. 3. c. 2. diſt. 11.</note> there is ſuch a faith found in Reprobates, which has a great affinity and ſimi<g ref="char:EOLhyphen"/>litude with the faith of the very Elect; and experience teaches us, that oftentimes they are carried with the ſame motion and ſenſe that the elect are; ſo that often<g ref="char:EOLhyphen"/>times they judge themſelves to be ſuch in truth and in deed: and ſometimes it happens, <note n="u" place="bottom">Beza in brev. explic. c. 7. Aphor. 6, &amp; 7.</note> that ſome are ſo lift up by the help of grace it ſelf, that they think they taſte of the joyes to come, and are real<g ref="char:EOLhyphen"/>ly
+<pb n="46" facs="tcp:35955:31"/> ingrafted into the true Church; ſo that they mayſhew others the way of life, and believe &amp; judge of them<g ref="char:EOLhyphen"/>ſelves no otherwiſe then that they are elected. O how miſerable are theſe men, who aſcend but to fall the lower, and that God might caſt them many ſtories lower into Hell!</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>And truly I knew this very well, and therefore ſo much the more avoided all Exhortations, Sermons, and reading of the Word, and abandoned all good works, leſt my blindneſs ſhould be greater, and my damnation heavier: Nay, and did affirm, <note n="x" place="bottom">Donteclock adv. Pacif. lit. L. 1.</note> as it is not the pur<g ref="char:EOLhyphen"/>poſe and minde of God, to ſave thoſe hereafter which he does not call here; ſo neither thoſe Repro<g ref="char:EOLhyphen"/>bates which he does call here, be<g ref="char:EOLhyphen"/>cauſe it does not pleaſe him to give them faith and repentance, without which they cannot be ſaved. God <note n="y" place="bottom">Trigland. Apol. fol. 135.</note> requires worſhip and obedience from all men, but has not decreed to give all men the power of obey<g ref="char:EOLhyphen"/>ing
+<pb n="47" facs="tcp:35955:31"/> in this faln corrupted condi<g ref="char:EOLhyphen"/>tion; God requires faith of all to whom the Word is preached, but will not give faith to all to whom it is revealed.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You ſeem to me to have been alwayes of this opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I was not ſo wedded to this opinion, till ſuch thoughts as theſe ran alwayes in my minde, that I was really of the number of the Elect.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Do not preſume raſhly, you too confidently pronounce your ſelf Elect, when from your Child<g ref="char:EOLhyphen"/>hood you have been ſuch a rake<g ref="char:EOLhyphen"/>hell, and have not to this day men<g ref="char:EOLhyphen"/>ded your courſe, theſe are but ſmall fruits or ſigns of your Ele<g ref="char:EOLhyphen"/>ction.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>O good Sir! you muſt know, that all <note n="z" place="bottom">Calv. in Inſtit. lib. 3. c. 24. diſt. 10.</note> the Elect are not called ſo ſoon as born, nor all at one and the ſame time: nay, before they are congregated to the Supreme Paſtor, they wander in the common deſert of this world in ſin, and are
+<pb n="48" facs="tcp:35955:32"/> neither known to others or them<g ref="char:EOLhyphen"/>ſelves to be elected to life, till the peculiar mercy of God keep and guide them. <note n="a" place="bottom">Muſc. loc. com. de Fide, c. 7.</note> Neither is God bound to any time when, or per<g ref="char:EOLhyphen"/>ſons which to call, ſo that 'tis for no one to doubt when he ſhall be call'd; for no ſin is ſo great as to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inder when heaven calls. Whence it appears, clear as Noon-day, I am not preſently to deſpair, if I have not lived ſo unblameably as you would have me.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yet it was your duty, as the Apoſtle ſayes, by good works to make your ſalvation ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>How came you to ſpeak ſo unadviſedly, Sir? does our Ele<g ref="char:EOLhyphen"/>ction depend on good works? I'll prove it does not: and further, I am perſwaded that the Elect may fall <note n="b" place="bottom">Zanch. in M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcel. p. 329.</note> into great and hainous ſins, as Adultery, Murther; nay ſometimes into ſuch errours, by which ſome<g ref="char:EOLhyphen"/>times partly, ſometimes wholly, the very foundation of Salvation is
+<pb n="49" facs="tcp:35955:32"/> turned topfie-turvy; or otherwiſe againſt their Conſcience to ſin foul<g ref="char:EOLhyphen"/>ly and grievouſly <note n="c" place="bottom">Ruard. Acron. Explic. Catech. qu. 53. fol. 137.</note> againſt any of the Commandments of God: but all theſe things hinder little or no<g ref="char:EOLhyphen"/>thing. For, <note n="d" place="bottom">Wilhel. Teeling in dial. de ſtatu hom. Chriſti, pag. 44.</note> God will not damn any of the elect though they ſin, becauſe the foundation of their ſafety lies in his eternal act of their election; neither can a thouſand, nay the ſins of the whole world, nor all the Devils in Hell deſtroy one of the Elect: Our ſins may harden our hearts, weaken our faith, but cannot quite deſtroy it, nor extinguiſh the Spirit of God utterly: So that God damns none for their ſins, whom he has adopted in Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>What, then you did not fear to be damned?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>No, not I, a jot: for who are <note n="e" place="bottom">Toſſ. de Praedeſt. cap. 3. Zanch. de nat. Dei, l. 7. q. 1.</note> predeſtinated, cannot be
+<pb n="50" facs="tcp:35955:33"/> caſt off for ever, becauſe once e<g ref="char:EOLhyphen"/>lected by the immutable Decree of God; and again, becauſe whom Chriſt loves, he loves unto the end.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But you ought to have turn'd and conform'd your ſelf according to the will of God, that you might have obtained the remiſſion of your ſins.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>For any thing I underſtand, you have even the ſame conception of <note n="f" place="bottom">Smout. in Script. conſent. fol. 12.</note> the New Covenant, as of the Old, which was placed in the condition of Works; as if we would conſtantly believe, and do this and thus, God would again do for us ſo and ſo, <hi>&amp;c.</hi> which rule is diame<g ref="char:EOLhyphen"/>trically oppoſite to the New Cove<g ref="char:EOLhyphen"/>nant conditions. <note n="g" place="bottom">Id. fol. 31.</note> God makes a New Covenant with us, and pro<g ref="char:EOLhyphen"/>miſes us, not onely when we are without any, but have ſtrayed a long way from the condition, whilſt we wallow in the midſt of ſin; <note n="h" place="bottom">Id. fol. 46.</note> Behold, God forgiveth ſin, be<g ref="char:EOLhyphen"/>fore
+<pb n="51" facs="tcp:35955:33"/> he renews the heart, and does both theſe before we have done any good; nay, whilſt we are in our ſins, and do profane his Name. Hence 'tis abundantly evident, <note n="i" place="bottom">Geſel. probat. fol. 33.</note> that God does proſecute all his Elect with a ſingular, eternal, gra<g ref="char:EOLhyphen"/>cious, and ſaving love, before they believe or repent: For truly, as the Synod of <hi>Dort</hi> 
+                  <note n="k" place="bottom">Acta Sy<g ref="char:EOLhyphen"/>nodi cap. 1. Art. 9.</note> ſayes, Ele<g ref="char:EOLhyphen"/>ction is made not from any fore<g ref="char:EOLhyphen"/>ſeen faith, obedience, fanctity, or any other good quality or diſpoſi<g ref="char:EOLhyphen"/>tion, as a pre-requiſite cauſe or con<g ref="char:EOLhyphen"/>dition in us, that we ſhould be thus elected; but are choſen to faith and obedience: ſo that Election is the cauſe from whence all good works flow, and from hence faith, holi<g ref="char:EOLhyphen"/>neſs, all ſpiritual gifts flow, and at laſt life it ſelf, as the fruit and ef<g ref="char:EOLhyphen"/>fect meerly of it.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Whither do you intend to protract this Diſpute? hold your tongue, and leave this diſputing; think with your ſelf how far the
+<pb n="50" facs="tcp:35955:34"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:35955:34"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="52" facs="tcp:35955:35"/> night is ſpent, and how nigh your life is to its period, and be more ſollicitous how you may be ſaved when you ſhall depart this life. Conſider thoſe words of St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 6.10. <hi>Nor thieves nor drunkards ſhall inherit the Kingdom of God;</hi> yet you muſt poſſeſs it, if you be ſaved.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Do you think you can ſhew your ſelf a Phyſician to my ſinful ſick Soul?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Believe in Jeſus Chriſt, mourn for your ſins, beg a bleſſed change from God, an happy hour, wherein he may give you the remiſſion of your ſins, and life everlaſting.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>What muſt I believe, that I may believe in Chriſt aright?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>You muſt believe that Jeſus Chriſt, by his Death and Paſſion, merited the remiſſion of ſins, and life eternal, and that for you par<g ref="char:EOLhyphen"/>ticularly. This is commanded you in the Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Whatſoever the Goſpel ſays, is it true or falſe?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>'Tis truth it ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Has Chriſt by his Death and
+<pb n="53" facs="tcp:35955:35"/> Paſſion purchaſed theſe things for all?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <note n="l" place="bottom">Piſc. con. Schafm. diſp. de Praedeſt. pag. 12.</note> Although humane Rea<g ref="char:EOLhyphen"/>ſon, and in good men, has thence taken ſcandal, and ſome of the E<g ref="char:EOLhyphen"/>vangelical Doctors much rage &amp; rail, when they hear any teach, that God would not have all men to be ſaved, but onely ſuch and ſuch, and Chriſt is not dead for all, but we firmly believe on either ſide, and that from Scripture it ſelf; ſo that I may aſſert in plain words, <note n="m" place="bottom">Perk. de Spir. deſert. p. 3.</note> God has conſtituted no Mediator for the reprobated; for Chriſt is the Re<g ref="char:EOLhyphen"/>deemer of the Elect onely, and not of others.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Is not Chriſt then dead, and made <note n="n" place="bottom">Polan. Explic. quar. in Relig. diff. p. 154. q. 4.</note> an offering for Repro<g ref="char:EOLhyphen"/>bates?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I pray, Sir, if you be one of Chriſts elect Sheep, why do you thus patronize the Reprobate and Damned? Reade the judgement of
+<pb n="54" facs="tcp:35955:36"/> the Synod of <note n="o" place="bottom">Synod of Dort, c. 2. art. 8.</note> 
+                  <hi>Dort,</hi> that will teach you, that this was the free counſel &amp; gracious intention of God the Father, &amp; of the precious death of his onely Son, to effect grace and Salvation in all the Elect, gi<g ref="char:EOLhyphen"/>ving them alone juſtifying faith, and by it infallibly bringing them to heaven; that is, God would that Chriſt by the blood of his Croſs (by which he ratified the new Cove<g ref="char:EOLhyphen"/>nant) ſhould effectually redeem out of every Tribe, People, Language and Nation, thoſe, and thoſe onely which were elected to Salvation from eternity, and were given to him of his Father, giving them like<g ref="char:EOLhyphen"/>wiſe faith and ſpiritual gifts, which he acquired by his ſufferings.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Are all men elected?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>No: <note n="p" place="bottom">Piſc. contra Schafm. Theſ. 115. p. 119. Buc. L. C. de Praedeſt. q. 46.</note> for God meerly out of his own will, without any reſpect to future impieties, ordained the greateſt part of mankinde to utter deſtruction.</p>
+            </sp>
+            <pb n="55" facs="tcp:35955:36"/>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Now at length, tell me ſe<g ref="char:EOLhyphen"/>riouſly from your heart what you think of me, am I of the Elect or no? Why do not you anſwer? Speak out, and ſpeak plain, hide not truth under the ambiguity of words, neither let your tongue diſ<g ref="char:EOLhyphen"/>ſent from your heart, for they ought not to be divorced, but ſpeak can<g ref="char:EOLhyphen"/>didly; for 'tis neceſſary that I know this: If I am a Reprobate, I ſhould believe a lie, for Chriſt has purchaſed nothing for Reprobates; if I am Elect, I follow the truth, and not a lie. Now to follow the truth, is a work of the Goſpel; therefore before I do any thing elſe, I will know whether I am elected or not.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <note n="q" place="bottom">Perk. de Praedeſt. p. 89. Gomar. de Praedeſt. Theſ. 4. Dungan. Pacif. p. 68.</note> Whoſoever is within the pale of the Church, is bound to be<g ref="char:EOLhyphen"/>lieve that he is redeemed by Chriſt, the Reprobate as well as the Elect, yet each after a peculiar manner; the Elect is bound, that believing he may poſſeſs the benefit of his E<g ref="char:EOLhyphen"/>lection;
+<pb n="56" facs="tcp:35955:37"/> the Reprobate is bound to believe from the intention of God, he may have the leſs to plead for himſelf: and therefore <note n="r" place="bottom">Gomar. de Predeſt. Theſ. 21.</note> Chriſt is offered to Reprobates, not that they ſhould be ſaved, but that be<g ref="char:EOLhyphen"/>ing convicted from the incredulity and refractorineſs of their hearts, they may want all manner of ex<g ref="char:EOLhyphen"/>cuſe.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Will you ſay, God would have Reprobates to believe that which is a lie, and damn them eter<g ref="char:EOLhyphen"/>nally too if they will not believe it? and what hinders but it is ſo? for <note n="s" place="bottom">Nic. de Schure in Inſtit.</note> after he has once reſolved to damn them, he may do it which way he pleaſes.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Pray Sir leave off theſe nice<g ref="char:EOLhyphen"/>ties, we have more need to pray to God, that he would ſave your Soul.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>If you will be praying, pray for your ſelf; for my part, I will not ſpend time and labour ſo idlely. If I am reprobated, 'tis impoſſible
+<pb n="57" facs="tcp:35955:37"/> to acquire Salvation, though I ſhould ſpend a thouſand years in praying: for the Decree ſtands ſo ſure, <note n="t" place="bottom">Polan. in Doct. de Praedeſt. pag. 139.</note> that as the Elect cannot be reprobated, ſo the Reprobated cannot become Elect; for Repro<g ref="char:EOLhyphen"/>bation is as immutable in reſpect of God reprobating, as man reproba<g ref="char:EOLhyphen"/>ted. What good can prayers do then? On the contrary, if I am elect, God has deſtinated me to ſal<g ref="char:EOLhyphen"/>vation from Eternity; <note n="u" place="bottom">Donteclock Inſtruct. de Predeſt. p. 93.</note> and all whom God has ordained to ſalva<g ref="char:EOLhyphen"/>tion from the foundation of the world, are brought to it by the Al<g ref="char:EOLhyphen"/>mighty Power of God (that the purpoſe of Election might ſtand ſure) that it is impoſſible for them any way to periſh. This has been alwayes my belief, according to which I have lived, and the Synod of <hi>Dort</hi> have ſo confirmed me in it, that I would ſooner be burnt than depart an hair from it. And as God <note n="x" place="bottom">Cap. 1. Art. 11.</note> himſelf is moſt wiſe, im<g ref="char:EOLhyphen"/>mutable,
+<pb n="58" facs="tcp:35955:38"/> omniſcient, omnipotent; ſo that Election by him made, can neither be changed, revoked or bro<g ref="char:EOLhyphen"/>ken, nor the Elect periſh, or their number admit of addition or ſub<g ref="char:EOLhyphen"/>traction. 'Tis granted <note n="y" place="bottom">It. cap. 5. Art. 4.</note> more<g ref="char:EOLhyphen"/>over, that the Elect ſometimes, by the permiſſion of God, fall into grievous ſins, as <hi>David, Peter,</hi> and other Saints; and they do offend <note n="z" place="bottom">Art. 5.</note> God by ſuch ſins, and incur the guilt of death, grieve the holy Spirit, deſtroy the exerciſe of their faith, wound their conſciences, and many times loſe the ſenſe of grace for a while: God nevertheleſs, for the immutable Decree of his Ele<g ref="char:EOLhyphen"/>ction, does not in ſad failings quite take his Spirit from them, neither does he ſuffer them to fall <note n="a" place="bottom">Art. 6.</note> ſo low, as to fall from the ſtate of Adoption or Juſtification, or to ſin unto death, or againſt the holy Ghoſt, ſo that he ſhould utterly deſert them, and leave them to periſh infallibly for ever. So that they obtain not any
+<pb n="59" facs="tcp:35955:38"/> thing by their owne worth and ſtrength, but of the meer bounty of God, <note n="b" place="bottom">Art. 8.</note> that they neither fall totally from grace, nor unavoid<g ref="char:EOLhyphen"/>ably into Hell. But, what is more than all this, when as both inter<g ref="char:EOLhyphen"/>nal and eternal Reprobation is the operation of God, which does not really differ from the eſſence of God himſelf, why may not we diſ<g ref="char:EOLhyphen"/>courſe and deſcant of Election? <note n="c" place="bottom">Polan. in Doct. de Pre<g ref="char:EOLhyphen"/>deſt.</note> 'Tis granted on all hands, that Reprobation, as well as Election, does not really differ from the Eſ<g ref="char:EOLhyphen"/>ſence of God, and therefore it is God himſelf, who in himſelf is al<g ref="char:EOLhyphen"/>together immutable; and far be it from me to ask, how God can be mutable.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Good God! what a ſad hear<g ref="char:EOLhyphen"/>ing is this? Can a man proceed ſo far, as to be burthened with ſin and miſery as you are, and yet will not call upon his God?</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>I would ſooner, Sir, ſing that excellent Hymn made by <hi>Bernard
+<pb n="60" facs="tcp:35955:39"/> Biſcop,</hi> heretofore Preacher at <hi>Oyen</hi> in <hi>Gelderland,</hi> now Preacher at <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>tricht,</hi> till my Chamber rung a<g ref="char:EOLhyphen"/>gain.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>If that man has made a Hymn, 'tis neceſſary it be good, for he is one teaches all Orthodox Do<g ref="char:EOLhyphen"/>ctrine: Let me hear it.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Hearken diligently: the me<g ref="char:EOLhyphen"/>lody of it ſhall anſwer to the 103 Pſalm: You ſhall briefly perceive in it the univerſal Rule of my Be<g ref="char:EOLhyphen"/>lief, according to which I intend to live and die.</p>
+               <floatingText xml:lang="eng" type="hymn">
+                  <body>
+                     <div n="1" type="verse">
+                        <head>I.</head>
+                        <p>PRaiſed be God, who before I was born, nay ere the World was, pre<g ref="char:EOLhyphen"/>deſtinated me to Salvation; not ac<g ref="char:EOLhyphen"/>cording to the Faith or Works which I ſhould have or do in this life, but ac<g ref="char:EOLhyphen"/>cording to his own infinite mercy.</p>
+                     </div>
+                     <div n="2" type="verse">
+                        <head>II.</head>
+                        <p>Bleſſed be God, who by the immu<g ref="char:EOLhyphen"/>table counſel of his own Will, has cal<g ref="char:EOLhyphen"/>led me inwardly by his Spirit, and out<g ref="char:EOLhyphen"/>wardly by his Word; who has inward<g ref="char:EOLhyphen"/>ly inlightned my minde and corrupt
+<pb n="61" facs="tcp:35955:39"/> ſenſes by his Spirit, and will more and more inlighten them.</p>
+                     </div>
+                     <div n="3" type="verse">
+                        <head>III.</head>
+                        <p>Who has freed my baſe erring will, the ſervant and ſtore-houſe of ſin, ſo that I deſire onely to walk in the wayes of the Lord, onely to be able is want<g ref="char:EOLhyphen"/>ing.</p>
+                     </div>
+                     <div n="4" type="verse">
+                        <head>IV.</head>
+                        <p>Bleſſed be God, who by his Omni<g ref="char:EOLhyphen"/>potent Spirit, and Divine Word co<g ref="char:EOLhyphen"/>operating, has implanted a firm faith in my heart; ſuch a ſtrong faith, which though by croſſes, and whatever is worſe, may be bended and yield, yet cannot break.</p>
+                     </div>
+                     <div n="5" type="verse">
+                        <head>V.</head>
+                        <p>Who ſhall ſeduce the Elect of God? Who ſhall ſeparate me from his love in Chriſt? Who ſhall pull me out of his Omnipotent Hand? Neither the De<g ref="char:EOLhyphen"/>vil, or Death, or deadly ſins ſhall be able by all their ſtrength to force away my Crown.</p>
+                     </div>
+                     <div n="6" type="verse">
+                        <head>VI.</head>
+                        <p>That good God, who has begun a
+<pb n="62" facs="tcp:35955:40"/> good work in me for his mercy ſake, will carry it on, and perfect it even unto the end, even to the end of this miſerable life. 'Tis the Lord my God who will do this, that I may perſevere, being alwayes guarded as it were a Prince by his Spirit.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Jaylor.</speaker>
+               <p>Pray make an end, will you? I have enough of theſe Diſ<g ref="char:EOLhyphen"/>putes and Rhymings: Is this one of your godly Hymns? This is a Song indeed befits a Rogue, and deſerves ſinging by none but a Club of Whores and Rogues met at a Bawdy-houſe. Your faith and your manners are even much alike.</p>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <p>Even jeer on, good-man Rogue, as much as you will: yet I eſteem it for an excellent Hymn; and were I to die, I would ſing it on the top of the higheſt Round of the Ladder, before that of <hi>Ex pro<g ref="char:EOLhyphen"/>fundis Domine,</hi> &amp;c. Out of the deep, O Lord, <hi>&amp;c.</hi> The Compoſer of it was one of the Orthodox Contra-Remonſtrants: Not long ago he being called out of a little Village into the City of <hi>
+                     <g ref="char:V">Ʋ</g>tricht,</hi> he there
+<pb n="63" facs="tcp:35955:40"/> ſo abundantly well argued for, and defended this Hymn, that there it was received into the Orthodox Church, as really conſentaneous to Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>Jaylor.</speaker>
+               <p>Is this that ſame Ortho<g ref="char:EOLhyphen"/>dox Doctrine, about which theſe Provinces are ſo devilliſhly trou<g ref="char:EOLhyphen"/>bled and peſter'd: Which that it may be had in holy reverence with the Church, Synods and Souldiers, uſe all their Authorities? Truly it is a very pretty thing.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Sirrah, you ought to hold your tongue of ſuch things, con<g ref="char:EOLhyphen"/>cerning which you know no more than a Dog. Look to it what you ſay, and leave to calumniate the Church and her Doctrine, or it ſhall go worſe with you, for ere long you ſhall be ſo far from being head Jay<g ref="char:EOLhyphen"/>lor, that you ſhall ſcarce be admit<g ref="char:EOLhyphen"/>ted to run of a Rogues errand.</p>
+            </sp>
+            <sp>
+               <speaker>Jaylor.</speaker>
+               <p>If theſe be your beſt Ar<g ref="char:EOLhyphen"/>guments, Mr. Parſon, yours is not ſo certain and good a Religion as you talk for. For all your hot words, I'll tell you but thus much, that you may very well know that
+<pb n="64" facs="tcp:35955:41"/> I underſtand you have done little or nothing (for all your many words) to the turning this poor Soul from ſin, and tranſlating him from death to life: nay, which is worſe, he is now much more hard<g ref="char:EOLhyphen"/>ned than before. Indeed I have heard much of your opinions be<g ref="char:EOLhyphen"/>fore, but never believed it till now, where I have been an eye and ear-witneſs of all is come out of your mouth. Is this your Reformed Re<g ref="char:EOLhyphen"/>ligion in good ſooth? If you had call'd it the Deformed Religion, you had hit it, as that which is not able to effect any thing of it ſelf, unleſs to ſtir up ſecurity in men, and give them an occaſion, nay ſpur them to go on in ſin. There<g ref="char:EOLhyphen"/>fore, Mr. Parſon, becauſe you can<g ref="char:EOLhyphen"/>not profit this ſick ſinful Soul any thing by your Doctrine, you may walk, for I'll light my Candle, and go fetch another, who ſhall contra<g ref="char:EOLhyphen"/>dict your Inſtitutions, and be of an<g ref="char:EOLhyphen"/>other-gueſs Opinion, who I ſuppoſe will far ſooner and ſurer bring a man to ſorrow for his ſin, and a better life.</p>
+            </sp>
+            <pb n="65" facs="tcp:35955:41"/>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Do what you pleaſe; ſo that you take it for granted, you ſhall not thus ſcape unpuniſh'd.</p>
+            </sp>
+            <sp>
+               <speaker>Jaylor.</speaker>
+               <p>Do what you can, I e<g ref="char:EOLhyphen"/>ſteem this mans Soul more than your favour. In the mean while, though you ſhew your envy and bitterneſs too much. But however, God give you good night.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
